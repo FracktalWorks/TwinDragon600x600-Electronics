@@ -1,0 +1,13 @@
+ToolBoard Hotend and thermistor connector: 
+ 
+Connector: 
+Molex Micro-fit 3.0 - 430450400 
+https://www.molex.com/en-us/products/part-detail/430450400  
+ 
+Housing: 
+Molex Micro-fit 3.0 Housing – 430250400 
+https://www.molex.com/en-us/products/part-detail/430250400  
+ 
+Crimp Terminals: 
+Molex Micro-fit 3.0 Female crimp terminals 
+https://www.molex.com/en-us/part-list/43030?sort=materialMaster.productNumberDisplay%20asc&taxonomyPathValueLast=Crimp%20Terminals  

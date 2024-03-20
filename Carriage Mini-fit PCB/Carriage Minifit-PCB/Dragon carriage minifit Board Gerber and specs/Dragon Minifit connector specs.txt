@@ -1,0 +1,13 @@
+Dragon Carriage Board connector: 
+ 
+Connector: 
+Molex 6P 2x3 Minifit Jr. 4.2mm Connector: 
+https://www.sunrom.com/p/6p-2x3-minifit-42mm-straight-female-pcb-header  
+ 
+Housing: 
+Molex 6P 2x3 Minifit Jr. 4.2mm Housing: 
+https://www.sunrom.com/p/6p-2x3-minifit-42mm-male-housing  
+ 
+Crimp Terminals: 
+Molex 6P 2x3 Minifit Jr. 4.2mm Crimps: 
+https://www.sunrom.com/p/crimping-pins-for-male-housing-minifit-42mm  
