@@ -79,6 +79,10 @@ The overall connections of all the Electrical and Electronic components are pres
 
 ![WhatsApp Image 2024-03-20 at 14 31 21 (1)](https://github.com/FracktalWorks/TwinDragon600x600-Electronics/assets/80109965/39d8fcf0-845f-4c06-a3fb-4be4854f6058)
 
+## Guide to place the connectors on the Carriage Minifit Board
+
+![minifit board guide](https://github.com/FracktalWorks/TwinDragon600x600-Electronics/assets/80109965/cde865be-b7a9-45ac-876f-ec327fd187ff)
+
 
 ## To setup Raspeberry Pi camera Rev 1.3, interfaced with RPi CM4 and BTT Manta M8P/M5P
 
